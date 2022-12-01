@@ -1,0 +1,38 @@
+body{
+    background-color:rgb(255, 217, 3);
+}
+
+.container{
+   margin-top: 50px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+}
+
+
+.body{
+    margin: auto;
+    display: flex;
+    text-align: center;
+    border-style: solid;
+    border-radius: 15px;
+    width: 200px;
+    background-color: rgb(62, 53, 244);
+    
+}
+
+#result{
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-top: 4px;
+    
+    width: 190px;
+    height: 45px;
+}
+
+button{
+    width: 40px;
+    height: 40px;
+    
+}
